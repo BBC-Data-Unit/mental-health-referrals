@@ -9,7 +9,7 @@ We found:
 
 # England:
 
-# # Referrals to mental health services:
+## Referrals to mental health services:
 
 * Latest figures show at least 279,995 referrals were made through the 117 NHS CCGs services in March 2021, a rise of 19% from February 2020.
 
@@ -17,7 +17,7 @@ We found:
 
 * Referral numbers had fallen by 27% between February and April 2020, as the pandemic hit services.
 
-# # Urgent crisis referrals to mental health services:
+## Urgent crisis referrals to mental health services:
 
 * Urgent mental health crisis referrals - made when a patient is suffering a more serious mental health crisis - are at their highest since January 2019 - the period analysed.
 
@@ -27,7 +27,7 @@ We found:
 
 * In some CCGs, the average number of monthly urgent care referrals in the 10 months to March 2021 is more than triple the average seen in the year ending April 2020.
 
-# # Numbers of people in contact with adult mental health services:
+## Numbers of people in contact with adult mental health services:
 
 * The number of people in contact with adult mental health services - after receiving a referral - plunged by more than 100,000 (-104,955) between February and April last year when the pandemic struck.
 
@@ -38,7 +38,7 @@ We found:
 * But other CCGs have seen the number of contacts increase compared to pre-pandemic levels, with the highest increase at more than 80%.
 
 
-# # Homeless people in contact with adult mental health services:
+## Homeless people in contact with adult mental health services:
 
 * Five mental health trusts had seen the number of homeless people in contact with their services more than double by March 2021, compared to pre-pandemic levels.
 
@@ -46,7 +46,7 @@ We found:
 
 # Wales:
 
-# # Referrals to Local Primary Mental Health Support Services (LPMHSS):
+## Referrals to Local Primary Mental Health Support Services (LPMHSS):
 
 * Referrals dropped sharply in Wales by 72% at the start of the pandemic.  Between February 2020 and April 2020, some 4,959 fewer referrals were received.
 * But as of yet no surge in referrals has been seen in the national monthly data. The latest data from March 2021 shows referral levels for Wales roughly at pre-pandemic levels, with 6,689 referrals made across adult and under-18 mental health care.
