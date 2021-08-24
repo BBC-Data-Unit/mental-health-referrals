@@ -49,18 +49,28 @@ We found:
 ## Referrals to Local Primary Mental Health Support Services (LPMHSS):
 
 * Referrals dropped sharply in Wales by 72% at the start of the pandemic.  Between February 2020 and April 2020, some 4,959 fewer referrals were received.
+
 * But as of yet no surge in referrals has been seen in the national monthly data. The latest data from March 2021 shows referral levels for Wales roughly at pre-pandemic levels, with 6,689 referrals made across adult and under-18 mental health care.
+
 * But while numbers have not increased beyond pre-Covid levels nationally, some individual Local Health Boards are showing signs of surging referrals.
+
 * In March 2021, the Cardiff and Vale University Local Health Board saw 47% more referrals compared to February 2020 - a rise of 435.
+
 * Powys Teaching Local Health Board saw referrals grow by 23% - a rise of 47.
+
 * Two other Health Boards, Aneurin Bevan and Hywel Ddam, saw referral numbers fall by a fifth over the same period. 
 
 # Scotland:
-* Referrals to mental health services fell by 59% between February and April last year when the pandemic first broke.
+* Referrals to mental health services fell by 59% between February and April last year when the pandemic first broke.#
+
 * But as of yet no surge in referrals has been seen in the national monthly data. The latest data from March 2021 shows referral levels for Scotland roughly at pre-pandemic levels, with 14,201 mental health referrals made.
+
 * But while national numbers have yet to see a surge, it’s a mixed picture at Health Board level.
+
 * In March 2021, the NHS Borders board saw 154% more referrals compared to February 2020 - a rise of 145.
+
 * And NHS Island Boards also saw referrals more than double in the same time, rising by 110% - or 34 referrals
+
 * At the other end of the scale, two boards - Dumfries and Galloway and Ayrshire and Arran - saw referral numbers in March this year fall by at least 20% compared to pre-pandemic levels. 
 
 
