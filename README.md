@@ -12,5 +12,5 @@ We found:
 * The rise is driven by an increase in referrals across England. Some CCGs, like Leeds, Redbridge and Greater Preston, have seen referrals more than double compared to pre-Covid levels.
 * But while referrals are rising, the number of people receiving mental health treatment remains lower than pre-pandemic levels.
 * Over the same time period, our analysis found the number of people in contact with the service had dropped by around 67,000 - a fall of 9%.
-* Charities have suggested a combination of social distancing restrictions and a move to online treatments has reduced capacity.
-* Concerns are also growing that a spike in urgent crisis referrals suggests people are entering the system more unwell than they would have been.
+
+Charities have suggested a combination of social distancing restrictions and a move to online treatments has reduced capacity. Concerns are also growing that a spike in urgent crisis referrals suggests people are entering the system more unwell than they would have been.
