@@ -41,6 +41,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Mental Health Today [Referrals for mental health services surge across Great Britain](https://www.mentalhealthtoday.co.uk/news/government-policy/referrals-for-mental-health-services-surge-across-great-britain) 18 August 2021
 * Cornish Stuff [Surge in mental health referrals in Cornwall](https://cornishstuff.com/2021/08/19/surge-in-mental-health-referrals-in-cornwall/), 19 August 2021
 * Hemel Today [Mental health referrals rise across Herts Valleys CCG area](https://www.hemeltoday.co.uk/news/people/mental-health-referrals-rise-across-herts-valleys-ccg-area-3353596) 20 August 2021
+* Romford Recorder [Mental health referral rates rise across east London](https://www.romfordrecorder.co.uk/news/health/mental-health-referral-rates-rise-across-east-london-8245884) 18 August 2021
+* Nothamptonshire Telegraph [Drop in number of homeless people using Northamptonshire trust's mental health services during Covid](https://www.northantstelegraph.co.uk/health/drop-in-number-of-homeless-people-using-northamptonshire-trusts-mental-health-services-during-covid-3353057) 19 August 2021
 
 The story featured on BBC Radio 4 news bulletins and on BBC News builletins, as well as on local radio stations such as BBC 3 Counties Radio, BBC Solent, BBC Cambridgeshire, BBC Cornwall, BBC West Midlands, BBC Hereford and Worcester,	BBC Leicester, BBC Nottingham, BBC Kent, BBC Cornwall and BBC Leeds.
 
